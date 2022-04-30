@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barbara Calas</h1>
-<h3 align="center">A french junior fullstack developer , passionate by coding</h3>
+<h3 align="center">A french fullstack developer , passionate by coding</h3>
 
 - 🔭 I’m currently working on [Lacty](https://rails-lacty-836.herokuapp.com/)
 
