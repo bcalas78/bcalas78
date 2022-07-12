@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barbara Calas</h1>
 <h3 align="center">A french Front-End developer, passionate by coding 💻</h3>
 
-- 🔭 I’m currently working on **Watch-list-1**
+- 🔭 I’m currently working on **La Maison jungle**
 
 - 🌱 I’m currently learning **Javascript React**
 
